@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TimofeyKremko
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning JavaScripn & React
+- 🌱 I’m currently learning JavaScript & React
 - 💞️ I’m looking to collaborate with perspective company which can give me a chance to trainee Front-end
 - 📫 How to reach me: text me on timkremko@gmail.com
