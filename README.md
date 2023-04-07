@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TimofeyKremko
+- 👋 Hi, I’m Tymek
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning JavaScript & React
 - 📫 How to reach me: text me on timkremko@gmail.com
